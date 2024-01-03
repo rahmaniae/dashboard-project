@@ -62,7 +62,7 @@ body{
 
 .sidebar {
     padding: 10px;
-    background-color: var(--violet);
+    background-color: var(--blue);
     font-size: 20px;
     font-weight: bold;
     color: var(--white);
@@ -199,7 +199,7 @@ body{
 
 .button {
     color: var(--white);
-    background-color: var(--violet);
+    background-color: var(--blue);
     width: 100%;
     border-radius: 16px;
     text-align: center;
