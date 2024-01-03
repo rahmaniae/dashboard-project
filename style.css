@@ -3,7 +3,7 @@
     margin: 0;
 }
 :root{
-    --violet: #0ea5e9;
+    --blue: #0ea5e9;
     --white: #f5f3ff;
     --grey: #e5e0fd;
     --black: #020617; 
@@ -312,6 +312,7 @@ body{
 .item-2 .username {
     font-size: 12px;
     margin-bottom: 4px;
+    font-weight: 500;
 }
 
 .item-2 .contribution {
